@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # DevOpsFlow Platform
 
 Cloud-Based DevOps CI/CD Automation Platform.
@@ -23,4 +22,3 @@ Kubernetes deployment, continuous delivery and monitoring.
 - Kubernetes
 - Prometheus
 - Grafana
-EOF
